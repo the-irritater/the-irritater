@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sanman
 
-<!--
-**the-irritater/the-irritater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Statistics Student  
+Machine Learning & Deep Learning Enthusiast 
+Interested in Model Generalization & Regularization  
+Passionate about Data Analytics & AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Neural Network Regularization Study
+- Spam Classification using TF-IDF
+- Regression with Outlier Analysis
+- Power BI Business Dashboards
+
+---
+
+## Skills
+- Python
+- TensorFlow / Keras
+- Scikit-Learn
+- SQL
+- Power BI
+- Statistical Modeling
+
+---
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/sanman-kadam-7a4990374/
+
+---
+
+Exploring how statistics meets artificial intelligence.
