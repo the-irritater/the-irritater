@@ -25,6 +25,12 @@ I enjoy working with data to find meaningful insights and solve real-world probl
 
 ---
 
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-irritater&layout=compact&theme=tokyonight)
+
+---
+
 ## Currently Working On
 
 - Building End-to-End Data Analysis Projects  
