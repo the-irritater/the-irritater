@@ -19,6 +19,12 @@ I enjoy working with data to find meaningful insights and solve real-world probl
 
 ---
 
+## GitHub Stats
+
+![Sanman's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-irritater&show_icons=true&theme=tokyonight)
+
+---
+
 ## Currently Working On
 
 - Building End-to-End Data Analysis Projects  
