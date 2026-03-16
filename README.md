@@ -25,9 +25,11 @@ I enjoy working with data to find meaningful insights and solve real-world probl
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-irritater&layout=compact&theme=tokyonight)
+
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-irritater&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-irritater&theme=tokyonight)
 
 ---
 
