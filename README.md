@@ -21,8 +21,7 @@ I am passionate about working with data to uncover insights and solve real-world
 
 ## GitHub Stats
 
-![Sanman's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-irritater\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
-
+![Sanman's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-irritater&show_icons=true&theme=tokyonight)
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-irritater\&layout=compact\&theme=tokyonight)
