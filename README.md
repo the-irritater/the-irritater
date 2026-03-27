@@ -3,7 +3,7 @@
 MSc Statistics Student
 Aspiring Data Analyst | Data Science 
 
-I am passionate about working with data to uncover insights and solve real-world problems. My focus is on building end-to-end data analytics projects involving data cleaning, SQL analysis, and dashboard development.
+I am passionate about working with data to uncover insights and solve real-world problems. My focus is on building end-to-end data analytics projects involving data cleaning, SQL analysis and dashboard development.
 
 ---
 
@@ -34,7 +34,7 @@ I am passionate about working with data to uncover insights and solve real-world
 
 ## What I'm Currently Working On
 
-* Building end-to-end data analytics projects using Python, SQL, and Power BI
+* Building end-to-end data analytics projects using Python, SQL and Power BI
 * Strengthening SQL querying and performance optimization
 * Exploring machine learning and applied statistical modeling
 
@@ -57,4 +57,4 @@ I am passionate about working with data to uncover insights and solve real-world
 
 ---
 
-Always learning, continuously improving, and focused on building impactful data-driven solutions.
+Always learning, continuously improving and focused on building impactful data driven solutions.
