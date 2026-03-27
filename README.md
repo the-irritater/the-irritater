@@ -1,62 +1,61 @@
 # Hi, I'm Sanman Kadam
 
-MSc Statistics Student  
-Aspiring Data Analyst / Data Scientist  
+MSc Statistics Student
+Aspiring Data Analyst | Data Science 
 
-I am passionate about Data Analysis, Machine Learning, and Statistical Modeling.  
-I enjoy working with data to find meaningful insights and solve real-world problems.
+I am passionate about working with data to uncover insights and solve real-world problems. My focus is on building end-to-end data analytics projects involving data cleaning, SQL analysis, and dashboard development.
 
 ---
 
 ## Skills & Tools
 
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
-- SQL
-- R Programming
-- Power BI
-- Machine Learning
-- Statistical Analysis
+* Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+* SQL (MySQL, SQL Server)
+* R Programming
+* Power BI
+* Machine Learning
+* Statistical Analysis
+* Data Visualization
 
 ---
 
 ## GitHub Stats
 
-![Sanman's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-irritater&show_icons=true&theme=tokyonight)
+![Sanman's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-irritater\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-irritater&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-irritater\&layout=compact\&theme=tokyonight)
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-irritater&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-irritater\&theme=tokyonight)
 
 ---
 
-## Currently Working On
+## What I'm Currently Working On
 
-- Building End-to-End Data Analysis Projects  
-- Improving SQL & Data Query Optimization Skills  
-- Learning Advanced Machine Learning Techniques  
+* Building end-to-end data analytics projects using Python, SQL, and Power BI
+* Strengthening SQL querying and performance optimization
+* Exploring machine learning and applied statistical modeling
 
 ---
 
-## Projects
+## Featured Projects
 
-- SQL Sales Analysis Project  
-- Machine Learning Classification Model  
-- Power BI Interactive Dashboard  
-- Statistical Research Project  
-
-(More projects coming soon...)
+* Retail Sales Analytics Dashboard (Python, SQL, Power BI)
+* SQL Sales Analysis Project
+* Sentiment Analysis using NLP
+* Machine Learning Classification Models
+* Statistical Research on Human Behavior
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/sanman-kadam-7a4990374/ 
-- Email: sanman.kadam@statistics.mu.ac.in  
+* LinkedIn: https://www.linkedin.com/in/sanman-kadam-7a4990374/
+* Email: [sanman.kadam@statistics.mu.ac.in](mailto:sanman.kadam@statistics.mu.ac.in)
 
 ---
 
-Always learning, always improving.
+Always learning, continuously improving, and focused on building impactful data-driven solutions.
