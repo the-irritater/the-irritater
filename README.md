@@ -1,9 +1,10 @@
 # Hi, I'm Sanman Kadam
 
-MSc Statistics Student
-Aspiring Data Analyst | Data Science 
+MSc Statistics student and aspiring Data Analyst focused on SQL, Python, Power BI, statistical analysis, and business intelligence.
 
-I am passionate about working with data to uncover insights and solve real-world problems. My focus is on building end-to-end data analytics projects involving data cleaning, SQL analysis and dashboard development.
+I build end-to-end analytics projects that move from messy data to clear decisions:
+
+Data Cleaning → SQL Analysis → Statistical Testing → Dashboarding → Business Recommendations
 
 ---
 
@@ -42,11 +43,24 @@ I am passionate about working with data to uncover insights and solve real-world
 
 ## Featured Projects
 
-* Retail Sales Analytics Dashboard (Python, SQL, Power BI)
-* SQL Sales Analysis Project
-* Sentiment Analysis using NLP
-* Machine Learning Classification Models
-* Statistical Research on Human Behavior
+### Business Intelligence & SQL
+- Retail Sales Analytics Dashboard
+- SQL Sales Project
+- Coffee Sales Analysis
+
+### Experimentation & Statistics
+- Conversion Optimization A/B Testing
+- Catastrophe Risk A/B Testing
+- Regularized Regression Study
+
+### Machine Learning & NLP
+- SMS Spam Classification
+- IMDb Sentiment Analysis
+- Resume Screening NLP
+
+### Research & Apps
+- Emotional Interaction Chatbot
+- Mumbai Travel Survey Bot
 
 ---
 
@@ -57,4 +71,4 @@ I am passionate about working with data to uncover insights and solve real-world
 
 ---
 
-Always learning, continuously improving and focused on building impactful data driven solutions.
+Focused on building analytics projects that combine statistics, business thinking, and clear data storytelling.
