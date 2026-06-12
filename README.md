@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI+%26+ML+Engineer;Full+Stack+Developer;Statistics+%7C+Machine+Learning+%7C+Product+Thinking"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI+%2F+ML+Engineer;Statistics+Postgraduate;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Decisions"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-4B0082?style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge"/></a>
   <a href="mailto:sanman.kadam@statistics.mu.ac.in"><img src="https://img.shields.io/badge/Email-Contact-6A0DAD?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Profile-4B0082?style=for-the-badge"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Profile-4B0082?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
@@ -28,14 +28,16 @@
 
 ## About
 
-Data Analyst and Statistics postgraduate focused on building production-grade data systems and intelligent applications. Strong grounding in statistical modeling, machine learning, and data engineering workflows. Experienced in transforming raw datasets into decision systems using EDA, predictive modeling, and dashboarding.
+Data Analyst and MSc Statistics student with hands-on experience building end-to-end analytics and machine learning systems. Strong in converting raw datasets into decision-ready insights using statistical modeling, EDA, and visualization.
 
-Works across the full product lifecycle – from data acquisition and cleaning to modeling, evaluation, and deployment. Comfortable operating in both research and business environments with emphasis on measurable outcomes.
+Experience spans government-scale datasets and business problems including churn prediction, A/B testing, NLP classification, and time series forecasting.
+
+Works across the full pipeline – data collection, cleaning, modeling, evaluation, and dashboard delivery – with a focus on measurable business impact.
 
 **Open To**
 - Data Analyst / Data Scientist roles  
-- AI / ML Engineering opportunities  
-- Product analytics and decision science  
+- Machine Learning Engineer opportunities  
+- Analytics and product-focused roles  
 
 ---
 
@@ -53,12 +55,12 @@ Works across the full product lifecycle – from data acquisition and cleaning t
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql"/>
 </p>
 
 ### Cloud, DevOps & Tooling
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
@@ -67,11 +69,11 @@ Works across the full product lifecycle – from data acquisition and cleaning t
 
 | Domain | Proficiency | Details |
 |------|------------|--------|
-| Machine Learning | Advanced | Classification, Regression, Model Evaluation |
-| NLP | Intermediate | Text classification, preprocessing pipelines |
-| Time Series | Advanced | Forecasting models, lag features |
+| Machine Learning | Advanced | Classification, regression, model evaluation (F1, accuracy) |
+| NLP | Intermediate | Text classification workflows |
+| Time Series | Advanced | Forecasting using ML and deep learning |
 | Statistics | Advanced | Hypothesis testing, regression, inference |
-| Data Engineering | Intermediate | ETL pipelines, scraping, automation |
+| Data Analysis | Advanced | EDA, feature engineering, KPI analysis |
 
 ---
 
@@ -80,54 +82,72 @@ Works across the full product lifecycle – from data acquisition and cleaning t
 <details>
 <summary><strong>Telecom Churn Prediction System</strong></summary>
 
-End-to-end machine learning pipeline for churn prediction using behavioral data.
+End-to-end ML pipeline to predict customer churn.
 
 | Metric | Details |
 |------|--------|
 | Stack | Python, Scikit-learn, Pandas |
-| Scale | 100K+ records |
+| Scale | Telecom dataset |
 | Performance | Optimized F1-score |
-| Security | Data preprocessing validation |
+| Security | Clean preprocessing pipeline |
 | Impact | Identified key churn drivers |
 | Repository | # |
 
-Built feature engineering pipeline and evaluated models using classification metrics. Delivered actionable insights for retention strategies.
+Built feature engineering pipeline and performed EDA to uncover behavioral patterns. Evaluated multiple models and selected optimal solution.
 
 </details>
 
 <details>
-<summary><strong>Retail Analytics Dashboard</strong></summary>
+<summary><strong>E-Commerce Conversion Optimization</strong></summary>
 
-Business intelligence system for revenue and customer insights.
+A/B testing and causal inference for conversion uplift.
+
+| Metric | Details |
+|------|--------|
+| Stack | Python, Statistics |
+| Scale | Controlled experiment |
+| Performance | Statistical significance testing |
+| Security | Bias & confounder control |
+| Impact | Data-driven launch decisions |
+| Repository | # |
+
+Designed experiment considering confounders like device type and user segments. Compared frequentist vs Bayesian approaches and explained Simpson’s paradox risk.
+
+</details>
+
+<details>
+<summary><strong>Retail Sales Analytics Dashboard</strong></summary>
+
+End-to-end analytics pipeline and BI dashboard.
 
 | Metric | Details |
 |------|--------|
 | Stack | SQL, Power BI, Python |
-| Scale | Multi-source datasets |
+| Scale | Multi-source business data |
 | Performance | Real-time KPI tracking |
-| Security | Clean data pipelines |
-| Impact | Improved decision visibility |
+| Security | Data cleaning & validation |
+| Impact | Improved reporting insights |
 | Repository | # |
 
-Designed full data workflow from SQL querying to interactive dashboards with DAX.
+Tracked revenue, AOV, and customer segmentation. Identified Pareto distribution in top products.
 
 </details>
 
 <details>
 <summary><strong>COVID-19 Forecasting Model</strong></summary>
 
-Time series forecasting with ML and deep learning models.
+Time series prediction using ML and deep learning.
 
 | Metric | Details |
 |------|--------|
 | Stack | Python, ANN, LSTM |
-| Scale | National-level data |
-| Performance | RMSE, MAE optimized |
-| Security | Data validation checks |
-| Impact | Improved prediction accuracy |
+| Scale | Public health dataset |
+| Performance | RMSE, MAE, R² |
+| Security | Data preprocessing |
+| Impact | Improved forecasting accuracy |
 | Repository | # |
 
-Compared multiple models and selected optimal forecasting approach based on metrics.
+Compared LR, ANN, and LSTM models and selected the best-performing model.
 
 </details>
 
@@ -135,25 +155,25 @@ Compared multiple models and selected optimal forecasting approach based on metr
 
 ## Experience
 
-**Data Science Intern – EVOASTRA Ventures**  
+**Data Science Intern – EVOASTRA Ventures Pvt Ltd**  
 Oct 2025 – Nov 2025  
 
-Built telecom churn prediction system with end-to-end ML workflow.  
-Performed feature engineering and EDA to uncover behavioral patterns.  
-Developed automated web scraping pipeline for data acquisition.  
+Developed telecom churn prediction workflow using Python and Scikit-learn.  
+Performed EDA and feature engineering to identify churn drivers.  
+Built automated web scraping pipeline using BeautifulSoup and Selenium.  
 
-Skills: Python, ML, Web Scraping, Model Evaluation  
+Skills: Python, Machine Learning, Web Scraping, Model Evaluation  
 
 ---
 
-**Data Analyst Intern – Directorate of Economics and Statistics**  
+**Data Analyst Intern – Directorate of Economics and Statistics (DES)**  
 May 2024 – Jun 2024  
 
-Processed large-scale government datasets for policy analysis.  
-Developed Power BI dashboards for regional insights.  
-Improved data consistency across 100K+ records.  
+Processed and cleaned 100K+ government records.  
+Built Power BI dashboards using Power Query and DAX.  
+Analyzed datasets on water, sanitation, and housing for policy insights.  
 
-Skills: Power BI, SQL, Data Cleaning, Analytics  
+Skills: Power BI, SQL, Excel, Data Cleaning  
 
 ---
 
@@ -161,25 +181,25 @@ Skills: Power BI, SQL, Data Cleaning, Analytics
 
 | Recognition | Details |
 |------------|--------|
-| NSS Best Group Leader | Awarded for leadership and execution |
-| Academic Excellence | MSc Statistics specialization |
-| Project Impact | Delivered production-ready analytics systems |
+| NSS Best Group Leader | Recognized for leadership and execution |
+| Academic Background | MSc Statistics specialization |
+| Project Delivery | Built real-world analytics systems |
 
 ---
 
 ## Certifications
 
 ### AWS
-![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge)
 
 ### Oracle
-![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Machine%20Learning-Certified-F80000?style=for-the-badge)
 
 ### NPTEL
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-0052CC?style=for-the-badge)
+![NPTEL](https://img.shields.io/badge/Data%20Analytics-Certified-0052CC?style=for-the-badge)
 
 ### Cisco
-![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/GenAI-Simulation-1BA0D7?style=for-the-badge)
 
 ---
 
@@ -233,21 +253,22 @@ Skills: Power BI, SQL, Data Cleaning, Analytics
 ```yaml
 Learning:
   - Advanced Machine Learning
-  - Deep Learning Architectures
-  - Data Engineering Systems
+  - Deep Learning
+  - Statistical Modeling
 
 Building:
-  - End-to-end ML pipelines
-  - Scalable analytics dashboards
+  - ML pipelines
+  - Data dashboards
 
 Exploring:
-  - AI-driven decision systems
+  - AI in decision systems
   - Product analytics
 
 Open To:
-  - Data Science Roles
-  - AI Engineering
-  - Analytics Consulting
+  - Data Analyst roles
+  - ML Engineer roles
+  - Analytics projects
+  
 Connect
-<p align="center"> <a href="mailto:sanman.kadam@statistics.mu.ac.in"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-4B0082?style=for-the-badge"/></a> </p>
-<p align="center"> Building systems that turn data into decisions. </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=120&section=footer"/> </p> ```
+<p align="center"> <a href="mailto:sanman.kadam@statistics.mu.ac.in"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/></a> <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge"/></a> </p>
+<p align="center"> Turning data into decisions through statistics and machine learning. </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=120&section=footer"/> </p> ```
