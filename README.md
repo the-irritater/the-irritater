@@ -101,7 +101,7 @@ I build analytics workflows that move from messy data to structured output: clea
 | Exploratory Data Analysis | Advanced | Data cleaning, missing-value review, descriptive statistics, outlier checks, business interpretation |
 | Machine Learning | Intermediate | Regression, classification, model evaluation, feature engineering, cross-validation |
 | NLP | Intermediate | Text preprocessing, TF-IDF, sentiment analysis, spam classification, resume screening workflows |
-| Deep Learning | BeginnerâIntermediate | LSTM and ANN-based forecasting/classification projects |
+| Deep Learning |Intermediate | LSTM and ANN-based forecasting/classification projects |
 | Business Intelligence | Advanced | Power BI dashboards, Power Query, DAX, KPI analysis, stakeholder reporting |
 | Statistical Analysis | Advanced | Hypothesis testing, regression, A/B testing, model comparison, inference |
 | Forecasting | Intermediate | Lag-based features, time-series modeling, error metric comparison |
