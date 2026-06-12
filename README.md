@@ -278,7 +278,7 @@ This project shows practical implementation of a research-support tool, connecti
 
 ### Data Science Intern  
 **EVOASTRA VENTURES PVT LTD, Mumbai**  
-**Oct 2025 â Nov 2025**
+**Oct 2025-Nov 2025**
 
 Worked on an end-to-end telecom churn prediction workflow using Python and Scikit-learn. The role involved exploratory data analysis, feature engineering, web scraping automation, and model evaluation.
 
@@ -300,7 +300,7 @@ Worked on an end-to-end telecom churn prediction workflow using Python and Sciki
 
 ### Data Analyst Intern  
 **Directorate of Economics and Statistics, Mumbai**  
-**May 2024 â Jun 2024**
+**May 2024-Jun 2024**
 
 Worked on government datasets involving cleaning, consolidation, dashboarding, and policy-level reporting. The role focused on making public datasets more consistent and usable for analysis.
 
