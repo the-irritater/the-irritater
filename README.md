@@ -248,3 +248,6 @@ Open To:
   - Data Science Roles
   - AI Engineering
   - Analytics Consulting
+Connect
+<p align="center"> <a href="mailto:sanman.kadam@statistics.mu.ac.in"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-4B0082?style=for-the-badge"/></a> </p>
+<p align="center"> Building systems that turn data into decisions. </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=120&section=footer"/> </p> ```
