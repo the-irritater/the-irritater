@@ -242,23 +242,13 @@ Full NLP classification pipeline featuring classical baselines, an LSTM neural n
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=the-irritater&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=the-irritater&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=the-irritater&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" />
+<img height="165" src="https://streak-stats.demolab.com?user=the-irritater&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-irritater&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=the-irritater&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-irritater&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -268,7 +258,7 @@ Full NLP classification pipeline featuring classical baselines, an LSTM neural n
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=the-irritater&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E5E7EB&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=the-irritater&theme=tokyo-night&area=true&hide_border=true" />
 
 </div>
 
