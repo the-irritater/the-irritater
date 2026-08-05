@@ -110,31 +110,10 @@ My goal is simple: transform complex quantitative data into clear, credible, and
 
 ---
 
-## Featured Projects
+## Pinned Featured Projects
 
 <details>
-<summary><b>A/B Test Outcome Predictor</b></summary>
-
-<br/>
-
-Machine learning framework predicting final A/B experiment outcomes from early-stage partial data.
-
-| Attribute | Details |
-|---|---|
-| Tools | Python, XGBoost, Random Forest, SHAP |
-| Methods | Bayesian features, 1,200 simulated experiments, feature engineering |
-| Key Outcome | **90.7% accuracy at Day 5**, reducing decision time by **64%** (saving 9 experiment-days per test) |
-| Focus | Accelerating experimentation velocity without sacrificing decision quality |
-| Repository | [View Repository](https://github.com/the-irritater/ab-test-outcome-predictor) |
-
-This project converts experiment monitoring into a supervised classification task, enabling product teams to call experiment winners 9 days earlier than traditional hypothesis testing.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>Conversion Optimization A/B Testing</b></summary>
+<summary><b>1. Conversion Optimization A/B Testing</b></summary>
 
 <br/>
 
@@ -155,7 +134,7 @@ Structured as a real-world product launch decision, this project evaluates raw c
 <br/>
 
 <details>
-<summary><b>Credit Card Fraud Detection</b></summary>
+<summary><b>2. Credit Card Fraud Detection</b></summary>
 
 <br/>
 
@@ -176,7 +155,28 @@ Builds a modular training and inference pipeline using SMOTE and cost-sensitive 
 <br/>
 
 <details>
-<summary><b>Catastrophe Risk A/B Testing</b></summary>
+<summary><b>3. A/B Test Outcome Predictor</b></summary>
+
+<br/>
+
+Machine learning framework predicting final A/B experiment outcomes from early-stage partial data.
+
+| Attribute | Details |
+|---|---|
+| Tools | Python, XGBoost, Random Forest, SHAP |
+| Methods | Bayesian features, 1,200 simulated experiments, feature engineering |
+| Key Outcome | **90.7% accuracy at Day 5**, reducing decision time by **64%** (saving 9 experiment-days per test) |
+| Focus | Accelerating experimentation velocity without sacrificing decision quality |
+| Repository | [View Repository](https://github.com/the-irritater/ab-test-outcome-predictor) |
+
+This project converts experiment monitoring into a supervised classification task, enabling product teams to call experiment winners 9 days earlier than traditional hypothesis testing.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>4. Catastrophe Risk A/B Testing</b></summary>
 
 <br/>
 
@@ -197,42 +197,42 @@ Simulates catastrophe frequency and severity distributions across 10,000 scenari
 <br/>
 
 <details>
-<summary><b>Wine Recommendation System (NLP)</b></summary>
+<summary><b>5. Retail Sales Analytics Dashboard</b></summary>
 
 <br/>
 
-Semantic search engine matching natural language taste preferences to expert wine reviews.
+End-to-end Business Intelligence project analyzing 18,000+ retail transactions using SQL Server, Python, and Power BI.
 
 | Attribute | Details |
 |---|---|
-| Tools | Python, Sentence Transformers (`all-MiniLM-L6-v2`), NMSLIB, Streamlit |
-| Methods | 384-dimensional vector embeddings, HNSW Cosine Index, t-SNE visualization |
-| Key Outcome | **0.8ms query latency** with **98.2% recall** against brute-force search |
-| Focus | Replacing rigid keyword search with deep semantic description understanding |
-| Repository | [View Repository](https://github.com/the-irritater/wine-recommendation-nlp) |
+| Tools | SQL Server (T-SQL), Power BI Desktop, Python, Pandas |
+| Methods | Star schema modeling, RFM customer segmentation, window functions, interactive DAX dashboard |
+| Key Outcome | Interactive executive overview dashboard identifying top 15% SKUs driving 78% of revenue |
+| Focus | Full-stack BI workflow from SQL querying to Power BI executive visual reporting |
+| Repository | [View Repository](https://github.com/the-irritater/retail-sales-analytics-dashboard) |
 
-Retrieves semantically matched wines based on sensory descriptions (e.g., "dry and fruity red with plum notes"), featuring an interactive Streamlit UI and search engine benchmarks.
+Integrates data cleaning, SQL analytical queries (running totals, repeat customer analysis), and an executive Power BI dashboard.
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>E-Commerce Sales Analytics & Customer Segmentation</b></summary>
+<summary><b>6. SMS Spam Classification (Machine Learning & Deep Learning)</b></summary>
 
 <br/>
 
-End-to-end customer analytics pipeline delivering RFM segmentation, cohort analysis, and CLV projections.
+SMS spam detection system comparing classical machine learning algorithms with an LSTM neural network, deployed via FastAPI.
 
 | Attribute | Details |
 |---|---|
-| Tools | Python, Pandas, Mlxtend, Scikit-learn |
-| Methods | RFM scoring, cohort retention heatmaps, Apriori market basket analysis, CLV projections |
-| Key Outcome | Identified 9 distinct customer personas and 12-month CLV distribution |
-| Focus | Actionable customer retention and cross-sell bundling strategies |
-| Repository | [View Repository](https://github.com/the-irritater/ecommerce-sales-analysis) |
+| Tools | Python, Scikit-learn, TensorFlow/Keras (LSTM), FastAPI, Docker |
+| Methods | Text preprocessing, TF-IDF vectorization, Bidirectional LSTM, API deployment |
+| Key Outcome | **98.5% classification accuracy** with <5ms inference latency via REST API endpoint |
+| Focus | Production model deployment comparing traditional ML and deep learning text filters |
+| Repository | [View Repository](https://github.com/the-irritater/SMS_Spam_Classification_ML_DL) |
 
-Modular Python pipeline (`src/`) processing 500k+ transactions into customer segments, retention decay curves, and association rule cross-sell recommendations.
+Full NLP classification pipeline featuring classical baselines, an LSTM neural network, and a containerized FastAPI endpoint (`/predict`).
 
 </details>
 
