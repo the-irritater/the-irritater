@@ -254,6 +254,16 @@ Full NLP classification pipeline featuring classical baselines, an LSTM neural n
 
 ---
 
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=the-irritater&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
+
+</div>
+
+---
+
 ## Contribution Activity
 
 <div align="center">
