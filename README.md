@@ -242,13 +242,13 @@ Full NLP classification pipeline featuring classical baselines, an LSTM neural n
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=the-irritater&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=the-irritater&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=the-irritater&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-irritater&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=the-irritater&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
