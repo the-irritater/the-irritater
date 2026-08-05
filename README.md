@@ -36,7 +36,7 @@
 
 </div>
 
----
+-
 
 ## About
 
@@ -46,14 +46,14 @@ I bridge the gap between statistical theory and business decision-making: from d
 
 My goal is simple: transform complex quantitative data into clear, credible, and decision-ready insights.
 
----
+-
 
 ## Technical Skills
 
 <div align="center">
 
 | Area | Skills |
-|---|---|
+|-|-|
 | Programming & Libraries | Python, R, SQL, Pandas, NumPy, Scikit-Learn, TensorFlow, SciPy, Statsmodels |
 | Databases & Tools | SQL Server, PostgreSQL, MySQL, Docker, Git, GitHub, Jupyter Notebook |
 | Visualization & BI | Power BI, Power Query, DAX, Streamlit, Matplotlib, Seaborn |
@@ -70,7 +70,7 @@ My goal is simple: transform complex quantitative data into clear, credible, and
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -78,14 +78,14 @@ My goal is simple: transform complex quantitative data into clear, credible, and
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
+-
 
 ## Statistical & Machine Learning Competencies
 
 <div align="center">
 
 | Domain | Details |
-|---|---|
+|-|-|
 | A/B Testing & Causal Inference | Power calculations, sample sizing, z-tests, regression adjustment, Bayesian posteriors, HTE |
 | Exploratory Data Analysis | Data cleaning, distribution diagnostics, correlation analysis, outlier detection |
 | Machine Learning | Classification, regression, SMOTE class balancing, cost matrix evaluation, SHAP explainability |
@@ -95,20 +95,20 @@ My goal is simple: transform complex quantitative data into clear, credible, and
 
 </div>
 
----
+-
 
 ## Education
 
 <div align="center">
 
 | Degree | Institute | Details |
-|---|---|---|
+|-|-|-|
 | MSc Statistics | University of Mumbai | Advanced Statistical Inference & Data Science |
 | BSc Statistics | University of Mumbai | Core Probability & Mathematical Statistics |
 
 </div>
 
----
+-
 
 ## Pinned Featured Projects
 
@@ -120,7 +120,7 @@ My goal is simple: transform complex quantitative data into clear, credible, and
 Comprehensive A/B testing decision framework for e-commerce checkout flow optimization.
 
 | Attribute | Details |
-|---|---|
+|-|-|
 | Tools | Python, SciPy, Statsmodels, Matplotlib, Makefile |
 | Methods | Hypothesis testing, regression adjustment, Bayesian decision framework, HTE |
 | Key Outcome | Quantified launch recommendation accounting for controlled user-mix imbalance |
@@ -141,7 +141,7 @@ Structured as a real-world product launch decision, this project evaluates raw c
 Production-ready machine learning pipeline for detecting highly imbalanced credit card fraud transactions.
 
 | Attribute | Details |
-|---|---|
+|-|-|
 | Tools | Python, XGBoost, SMOTE, Scikit-learn |
 | Methods | SMOTE oversampling, cost-sensitive evaluation matrix, modular pipeline |
 | Key Outcome | Minimizes business cost (`Cost = FP*$10 + FN*$100`) rather than naive accuracy |
@@ -162,7 +162,7 @@ Builds a modular training and inference pipeline using SMOTE and cost-sensitive 
 Machine learning framework predicting final A/B experiment outcomes from early-stage partial data.
 
 | Attribute | Details |
-|---|---|
+|-|-|
 | Tools | Python, XGBoost, Random Forest, SHAP |
 | Methods | Bayesian features, 1,200 simulated experiments, feature engineering |
 | Key Outcome | **90.7% accuracy at Day 5**, reducing decision time by **64%** (saving 9 experiment-days per test) |
@@ -183,7 +183,7 @@ This project converts experiment monitoring into a supervised classification tas
 Monte Carlo simulation engine for insurance portfolio risk evaluation and catastrophe modeling.
 
 | Attribute | Details |
-|---|---|
+|-|-|
 | Tools | Python, Streamlit, SciPy, NumPy |
 | Methods | 10,000 Monte Carlo iterations, reinsurance layer modeling, KS tests |
 | Key Outcome | Tail risk evaluation comparing non-normal profit distributions under catastrophe events |
@@ -204,7 +204,7 @@ Simulates catastrophe frequency and severity distributions across 10,000 scenari
 End-to-end Business Intelligence project analyzing 18,000+ retail transactions using SQL Server, Python, and Power BI.
 
 | Attribute | Details |
-|---|---|
+|-|-|
 | Tools | SQL Server (T-SQL), Power BI Desktop, Python, Pandas |
 | Methods | Star schema modeling, RFM customer segmentation, window functions, interactive DAX dashboard |
 | Key Outcome | Interactive executive overview dashboard identifying top 15% SKUs driving 78% of revenue |
@@ -225,7 +225,7 @@ Integrates data cleaning, SQL analytical queries (running totals, repeat custome
 SMS spam detection system comparing classical machine learning algorithms with an LSTM neural network, deployed via FastAPI.
 
 | Attribute | Details |
-|---|---|
+|-|-|
 | Tools | Python, Scikit-learn, TensorFlow/Keras (LSTM), FastAPI, Docker |
 | Methods | Text preprocessing, TF-IDF vectorization, Bidirectional LSTM, API deployment |
 | Key Outcome | **98.5% classification accuracy** with <5ms inference latency via REST API endpoint |
@@ -236,7 +236,7 @@ Full NLP classification pipeline featuring classical baselines, an LSTM neural n
 
 </details>
 
----
+-
 
 ## GitHub Analytics
 
@@ -252,7 +252,7 @@ Full NLP classification pipeline featuring classical baselines, an LSTM neural n
 
 </div>
 
----
+-
 
 ## GitHub Trophies
 
@@ -262,7 +262,7 @@ Full NLP classification pipeline featuring classical baselines, an LSTM neural n
 
 </div>
 
----
+-
 
 ## Contribution Activity
 
@@ -272,7 +272,7 @@ Full NLP classification pipeline featuring classical baselines, an LSTM neural n
 
 </div>
 
----
+-
 
 ## Connect
 
@@ -298,7 +298,7 @@ Full NLP classification pipeline featuring classical baselines, an LSTM neural n
 
 </div>
 
----
+-
 
 <div align="center">
 
